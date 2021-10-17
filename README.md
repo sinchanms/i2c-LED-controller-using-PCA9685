@@ -1,5 +1,7 @@
 # i2c_PCA9685
 
+Youtube link: https://www.youtube.com/watch?v=OZnXIOzpKPs&t=79s
+
 Abstract:
 
 The I2C LED controllers enable core functions in some of today’s most ubiquitous devices and
@@ -20,3 +22,5 @@ to 1526 Hz with a duty cycle that is adjustable from 0 % to 100 % to allow the L
 brightness value. All outputs are set to the same PWM frequency. The LED driver will be controlled by an
 ATMEGA Series board which will act as an I2C master device.
 Using this design various patterns are generated with different color combination.
+
+
