@@ -1,4 +1,4 @@
-# i2c_PCA9685
+# i2c-LED-controller-using-PCA9685
 
 Youtube link: https://www.youtube.com/watch?v=OZnXIOzpKPs&t=79s
 
